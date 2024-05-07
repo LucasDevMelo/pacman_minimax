@@ -5,7 +5,11 @@ Trabalho da faculdade de ciência da computação, matéria: Inteligencia Artifi
 
 Feito por:
 JOÃO VICTOR DE GODOI DO AMARAL
+
 LUCAS LOPES DE MELO SILVA
+
 LUCCA WEBER SALES
+
 RENAN NÍCOLAS ARRUDA COSTA
+
 VINÍCIUS BRAGA 
